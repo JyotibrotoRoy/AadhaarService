@@ -71,7 +71,7 @@ Steps
 
 1. Database Strategy: H2 (PostgreSQL Mode)
 
-        Why? To ensure the application is "Plug-and-Play" for reviewers. It requires zero local setup while supporting standard PostgreSQL syntax.
+    Why? To ensure the application is "Plug-and-Play" for reviewers. It requires zero local setup while supporting standard PostgreSQL syntax.
 
 2. Strict SQL Compliance (LIMIT / OFFSET)
 The problem statement mandated the use of Native SQL. Instead of hiding behind JPA, the UserService executes:
