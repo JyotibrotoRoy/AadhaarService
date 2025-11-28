@@ -1,3 +1,4 @@
+```text
 aadhaar-service/
 ├── src/
 │   ├── main/
@@ -32,4 +33,4 @@ aadhaar-service/
 │
 ├── pom.xml                            # Maven Dependencies
 ├── README.md                          # Run Instructions & Documentation
-└── FOLDER_STRUCTURE.md                # This file
+```
